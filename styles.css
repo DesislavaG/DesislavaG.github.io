@@ -1,6 +1,14 @@
 body {
     background: #ffebd0;
 }
+h1{
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+p{
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
 .giftcard:hover{
     cursor: pointer;
     text-decoration: underline;
